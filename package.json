@@ -27,7 +27,7 @@
     "rimraf": "^3.0.2",
     "semver": "^7.3.5",
     "string-length": "^4.0.2",
-    "terminal-kit": "^2.1.6",
+    "terminal-kit": "^1.49.4",
     "update-notifier": "^5.1.0",
     "which": "^2.0.2"
   },
